@@ -84,9 +84,10 @@ h3 {
 }
 .projects {
     background-color: #e8e8e8;
-    padding: 20px;
+    padding: 30px 20px;
     margin: 20px;
     border-radius: 10px;
+    text-align: center;
 }
 .projects h2 {
     margin-bottom: 20px;
