@@ -93,6 +93,7 @@ h3 {
 }
 .skills h2 {
     width: 100%;
+    margin-bottom: 25px;
 }
 .skill {
     background-color: black;
