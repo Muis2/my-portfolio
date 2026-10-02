@@ -72,13 +72,15 @@ h3 {
 }
 .skills {
     background-color: white;
-    padding: 20px;
+    padding: 30px 20px;
     margin: 20px;
     border-radius: 10px;
     text-align: center;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
 }
 .projects {
     background-color: #e8e8e8;
