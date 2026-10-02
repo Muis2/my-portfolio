@@ -253,4 +253,6 @@ footer {
     padding: 40px 20px;
     background-color: white;
 border-radius: 10px;
+    margin: 20px;
+max-width: 900px;
 }
